@@ -1,2 +1,49 @@
-# SuperuserListBackup
+# Superuser List Backup
+
 A simple Magisk Module to backup Magisks Superuser list for later restoration
+
+*This is a module requested by XDA member @christantoan, who quite rightly asked why, if i had backup and restore modules for MagiskHide/Deny Lists, why wasnt there the same functionality for the Superuser list.*
+
+After explaining that id thought of it plenty of times, but due to my overwhelming fondness for laziness, put it in the Much Later basket, i set about trying to make his Xmas Wish come true...
+
+**What it does/How it works:**
+
+- Queries the magisk.db policies table
+- Grabs all the UID's and formats them into a single line for array iteration
+- Queries the package list to match the uid to the package name (pm list packages --uid <uid>) and formats the results
+- Writes the package names to the backup file (/storage/emulated/0/SuperUserList.txt)
+
+The only active file in the entire module is /common/install.sh, and it is commented.
+
+**Usage:**
+
+- Install via Magisk Manager
+
+The module will remain installed, unless removed, after the process completes.
+
+It is safe to leave installed and ignored if you like.
+
+You can of course flash the module again at any time to create a new backup file.
+
+
+**Please note:** the included LICENSE **only** covers the module components provided by the excellent work of Zack5tpg's 
+Magisk Module Extended, which is available for here for module creators
+
+https://github.com/Zackptg5/MMT-Extended/
+
+All other work is credited above and **no one may fork or re-present this module as their own for the purposes of trying to 
+monetize this module or its content without all parties permission. The module comes specifically without an overall license 
+for this intent.**
+
+
+### Changelog ###
+
+Please see: https://github.com/stylemessiah/SuperuserListBackup/blob/main/CHANGELOG.md
+
+
+### Project Stats ###
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/stylemessiah/SuperuserListBackup?label=Release&style=plastic)
+![GitHub Release Date](https://img.shields.io/github/release-date/stylemessiah/SuperuserListBackup?label=Release%20Date&style=plastic)
+![GitHub Releases](https://img.shields.io/github/downloads/stylemessiah/SuperuserListBackup/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
+![GitHub All Releases](https://img.shields.io/github/downloads/stylemessiah/SuperuserListBackup/total?label=Total%20Downloads%20%28All%20Releases%29&style=plastic)
