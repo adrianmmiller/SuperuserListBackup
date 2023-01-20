@@ -4,6 +4,6 @@ version=v1.1
 versionCode=1
 author=73sydney
 description=Magisk Manage Super User List Backup
-support=https://github.com/stylemessiah/SuperuserListBackup
-updateJson=https://raw.githubusercontent.com/stylemessiah/SuperuserListBackup/main/update.json
+support=https://github.com/adrianmmiller/SuperuserListBackup
+updateJson=https://raw.githubusercontent.com/adrianmmiller/SuperuserListBackup/main/update.json
 
