@@ -40,12 +40,12 @@ for this intent.**
 
 ### Changelog ###
 
-Please see: https://github.com/stylemessiah/SuperuserListBackup/blob/main/CHANGELOG.md
+Please see: https://github.com/adrianmmiller/SuperuserListBackup/blob/main/CHANGELOG.md
 
 
 ### Project Stats ###
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/stylemessiah/SuperuserListBackup?label=Release&style=plastic)
-![GitHub Release Date](https://img.shields.io/github/release-date/stylemessiah/SuperuserListBackup?label=Release%20Date&style=plastic)
-![GitHub Releases](https://img.shields.io/github/downloads/stylemessiah/SuperuserListBackup/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
-![GitHub All Releases](https://img.shields.io/github/downloads/stylemessiah/SuperuserListBackup/total?label=Total%20Downloads%20%28All%20Releases%29&style=plastic)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/adrianmmiller/SuperuserListBackup?label=Release&style=plastic)
+![GitHub Release Date](https://img.shields.io/github/release-date/adrianmmiller/SuperuserListBackup?label=Release%20Date&style=plastic)
+![GitHub Releases](https://img.shields.io/github/downloads/adrianmmiller/SuperuserListBackup/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
+![GitHub All Releases](https://img.shields.io/github/downloads/adrianmmiller/SuperuserListBackup/total?label=Total%20Downloads%20%28All%20Releases%29&style=plastic)
