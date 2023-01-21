@@ -1,8 +1,8 @@
-id=SuperUserListBackup
-name=Super User List Backup
+id=SuperuserListBackup
+name=Superuser List Backup
 version=v1.1
 versionCode=1
-author=73sydney
+author=adrianmmiller
 description=Magisk Manage Super User List Backup
 support=https://github.com/adrianmmiller/SuperuserListBackup
 updateJson=https://raw.githubusercontent.com/adrianmmiller/SuperuserListBackup/main/update.json
