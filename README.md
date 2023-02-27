@@ -6,6 +6,8 @@ A simple Magisk Module to backup Magisks Superuser list for later restoration
 
 After explaining that id thought of it plenty of times, but due to my overwhelming fondness for laziness, put it in the Much Later basket, i set about trying to make his Xmas Wish come true...
 
+PLEASE NOTE: We (myself, Osm0sis, ipdev and pndwal) all tried to get this backup and restore functionality (along with backup/restore for the magiskhide/deny list list - i have modules for that too) added natively to Magisk Manager via Magisk's Github, lets just say it was rejected, so here we are...
+
 **What it does/How it works:**
 
 - Queries the magisk.db policies table
@@ -41,6 +43,17 @@ for this intent.**
 ### Changelog ###
 
 Please see: https://github.com/adrianmmiller/SuperuserListBackup/blob/main/changelog.md
+
+---
+
+### **Related modules:**
+
+MagiskHideDenyBackup: https://github.com/adrianmmiller/MagiskHideDenyBackup
+
+MagiskHideDenyRestore: https://github.com/adrianmmiller/MagiskHideDenyRestore
+
+---
+
 
 
 ### Project Stats ###
