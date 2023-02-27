@@ -19,7 +19,7 @@ The only active file in the entire module is /common/install.sh, and it is comme
 
 **Usage:**
 
-- Install via Magisk Manager
+- Install SuperuserListBackupe module from [Releases section](https://github.com/adrianmmiller/SuperuserListBackup/releases/latest) via Magisk Manager or Fox Module Manager
 
 The module will create a logfile (/storage/emulated/0/SuperUserListBackup.log) on install, which mirrors the information onscreen. If you have any issues, you'll need to start by looking there, and by opening an issue on this repo's Issues  
   
