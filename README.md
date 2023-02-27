@@ -28,6 +28,8 @@ PLEASE NOTE: We (myself, Osm0sis, ipdev and pndwal) all tried to get this backup
   
 The module will create a logfile (/storage/emulated/0/SuperUserListBackup.log) on install, which mirrors the information onscreen. If you have any issues, you'll need to start by looking there, and by opening an issue on this repo's Issues  
   
+The only active file in the entire module is /common/install.sh, and it is commented.
+  
 The module will remain installed, unless removed, after the process completes.
 
 It is safe to leave installed and ignored if you like.
